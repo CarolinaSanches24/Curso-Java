@@ -26,7 +26,7 @@ public class App {
         System.out.println("Estrutura Condicional Simples");
         int nota = 6;
         if(nota>=5){
-            System.out.println("Aprovado.\n Parabéns!" + palavra);
+            System.out.println("Aprovado\n Parabéns!" + palavra);
         }
         System.out.println("Estrutura Composta ");
          int nota = 6;
