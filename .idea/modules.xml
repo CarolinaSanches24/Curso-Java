@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CLASSES ABSTRATAS/CLASSES ABSTRATAS.iml" filepath="$PROJECT_DIR$/CLASSES ABSTRATAS/CLASSES ABSTRATAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COMPOSICAO/COMPOSICAO.iml" filepath="$PROJECT_DIR$/COMPOSICAO/COMPOSICAO.iml" />
       <module fileurl="file://$PROJECT_DIR$/CURSO JAVA.iml" filepath="$PROJECT_DIR$/CURSO JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HERANCA/HERANCA.iml" filepath="$PROJECT_DIR$/HERANCA/HERANCA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HERANCA-EXEMPLO/HERANCA-EXEMPLO.iml" filepath="$PROJECT_DIR$/HERANCA-EXEMPLO/HERANCA-EXEMPLO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTERFACE/INTERFACE.iml" filepath="$PROJECT_DIR$/INTERFACE/INTERFACE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO JAVA/POO JAVA.iml" filepath="$PROJECT_DIR$/POO JAVA/POO JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tratamento de excecoes/Tratamento de excecoes.iml" filepath="$PROJECT_DIR$/Tratamento de excecoes/Tratamento de excecoes.iml" />
     </modules>
   </component>
 </project>
