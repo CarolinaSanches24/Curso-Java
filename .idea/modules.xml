@@ -9,8 +9,12 @@
       <module fileurl="file://$PROJECT_DIR$/HERANCA/HERANCA.iml" filepath="$PROJECT_DIR$/HERANCA/HERANCA.iml" />
       <module fileurl="file://$PROJECT_DIR$/HERANCA-EXEMPLO/HERANCA-EXEMPLO.iml" filepath="$PROJECT_DIR$/HERANCA-EXEMPLO/HERANCA-EXEMPLO.iml" />
       <module fileurl="file://$PROJECT_DIR$/INTERFACE/INTERFACE.iml" filepath="$PROJECT_DIR$/INTERFACE/INTERFACE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POLIMORFISMO/POLIMORFISMO.iml" filepath="$PROJECT_DIR$/POLIMORFISMO/POLIMORFISMO.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO JAVA/POO JAVA.iml" filepath="$PROJECT_DIR$/POO JAVA/POO JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOBRECARGA/SOBRECARGA.iml" filepath="$PROJECT_DIR$/SOBRECARGA/SOBRECARGA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SobrescritaMetodos/SobrescritaMetodos.iml" filepath="$PROJECT_DIR$/SobrescritaMetodos/SobrescritaMetodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tratamento de excecoes/Tratamento de excecoes.iml" filepath="$PROJECT_DIR$/Tratamento de excecoes/Tratamento de excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodoString/metodoString.iml" filepath="$PROJECT_DIR$/metodoString/metodoString.iml" />
     </modules>
   </component>
 </project>
