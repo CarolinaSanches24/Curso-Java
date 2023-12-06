@@ -3,16 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CLASSES ABSTRATAS/CLASSES ABSTRATAS.iml" filepath="$PROJECT_DIR$/CLASSES ABSTRATAS/CLASSES ABSTRATAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COLECOES-ITERATOR/COLECOES-ITERATOR.iml" filepath="$PROJECT_DIR$/COLECOES-ITERATOR/COLECOES-ITERATOR.iml" />
       <module fileurl="file://$PROJECT_DIR$/COMPOSICAO/COMPOSICAO.iml" filepath="$PROJECT_DIR$/COMPOSICAO/COMPOSICAO.iml" />
       <module fileurl="file://$PROJECT_DIR$/CURSO JAVA.iml" filepath="$PROJECT_DIR$/CURSO JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXEMPLO/EXEMPLO.iml" filepath="$PROJECT_DIR$/EXEMPLO/EXEMPLO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HASHSET/HASHSET.iml" filepath="$PROJECT_DIR$/HASHSET/HASHSET.iml" />
       <module fileurl="file://$PROJECT_DIR$/HERANCA/HERANCA.iml" filepath="$PROJECT_DIR$/HERANCA/HERANCA.iml" />
       <module fileurl="file://$PROJECT_DIR$/HERANCA-EXEMPLO/HERANCA-EXEMPLO.iml" filepath="$PROJECT_DIR$/HERANCA-EXEMPLO/HERANCA-EXEMPLO.iml" />
       <module fileurl="file://$PROJECT_DIR$/INTERFACE/INTERFACE.iml" filepath="$PROJECT_DIR$/INTERFACE/INTERFACE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTERFACE-LISTA/INTERFACE-LISTA.iml" filepath="$PROJECT_DIR$/INTERFACE-LISTA/INTERFACE-LISTA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LINKEDLIST/LINKEDLIST.iml" filepath="$PROJECT_DIR$/LINKEDLIST/LINKEDLIST.iml" />
       <module fileurl="file://$PROJECT_DIR$/POLIMORFISMO/POLIMORFISMO.iml" filepath="$PROJECT_DIR$/POLIMORFISMO/POLIMORFISMO.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO JAVA/POO JAVA.iml" filepath="$PROJECT_DIR$/POO JAVA/POO JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOBRECARGA/SOBRECARGA.iml" filepath="$PROJECT_DIR$/SOBRECARGA/SOBRECARGA.iml" />
       <module fileurl="file://$PROJECT_DIR$/SobrescritaMetodos/SobrescritaMetodos.iml" filepath="$PROJECT_DIR$/SobrescritaMetodos/SobrescritaMetodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TREESET/TREESET.iml" filepath="$PROJECT_DIR$/TREESET/TREESET.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tratamento de excecoes/Tratamento de excecoes.iml" filepath="$PROJECT_DIR$/Tratamento de excecoes/Tratamento de excecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/metodoString/metodoString.iml" filepath="$PROJECT_DIR$/metodoString/metodoString.iml" />
     </modules>
