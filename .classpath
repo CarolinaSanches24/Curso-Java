@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ArrayBidemensional/src"/>
+	<classpathentry kind="src" path="ArrayMultidimensional/src"/>
+	<classpathentry kind="src" path="BancoDados/src"/>
+	<classpathentry kind="src" path="CLASSE  ABSTRATA/src"/>
+	<classpathentry kind="src" path="CLASSES ABSTRATAS/src"/>
+	<classpathentry kind="src" path="COLECOES-ITERATOR/src"/>
+	<classpathentry kind="src" path="Collections/ArrayList/src"/>
+	<classpathentry kind="src" path="Collections/Comparator/src"/>
+	<classpathentry kind="src" path="Collections/Comparator2/src"/>
+	<classpathentry kind="src" path="Collections/HashMap/src"/>
+	<classpathentry kind="src" path="Collections/HashSet/src"/>
+	<classpathentry kind="src" path="Collections/HashTable/src"/>
+	<classpathentry kind="src" path="Collections/Iterator/src"/>
+	<classpathentry kind="src" path="Collections/LinkedHashMap/src"/>
+	<classpathentry kind="src" path="Collections/LinkedHashSet/src"/>
+	<classpathentry kind="src" path="Collections/LinkedList/src"/>
+	<classpathentry kind="src" path="Collections/src"/>
+	<classpathentry kind="src" path="Collections/TreeMap/src"/>
+	<classpathentry kind="src" path="Collections/TreeSet/src"/>
+	<classpathentry kind="src" path="Collections/Vector/src"/>
+	<classpathentry kind="src" path="COMPOSICAO/src"/>
+	<classpathentry kind="src" path="EXEMPLO/src"/>
+	<classpathentry kind="src" path="ExemploClassePOO/src"/>
+	<classpathentry kind="src" path="ExemploComposicao/src"/>
+	<classpathentry kind="src" path="ExemploSubstring/src"/>
+	<classpathentry kind="src" path="Exercicios/src"/>
+	<classpathentry kind="src" path="Fundamentos Java/src"/>
+	<classpathentry kind="src" path="HASHSET/src"/>
+	<classpathentry kind="src" path="HERANCA/src"/>
+	<classpathentry kind="src" path="HERANCA-EXEMPLO/src"/>
+	<classpathentry kind="src" path="INTERFACE/src"/>
+	<classpathentry kind="src" path="INTERFACE-LISTA/src"/>
+	<classpathentry kind="src" path="JFRAME/src"/>
+	<classpathentry kind="src" path="JFrameUser/src"/>
+	<classpathentry kind="src" path="LINKEDLIST/src"/>
+	<classpathentry kind="src" path="metodoString/src"/>
+	<classpathentry kind="src" path="ModificadorAcessoPrivate/src"/>
+	<classpathentry kind="src" path="ModificadorAcessoProtected/src"/>
+	<classpathentry kind="src" path="ModificadorAcessoPublic/src"/>
+	<classpathentry kind="src" path="ModificadoresAcessoDefault/src"/>
+	<classpathentry kind="src" path="Onibus/src"/>
+	<classpathentry kind="src" path="POLIMORFISMO/src"/>
+	<classpathentry kind="src" path="POO JAVA/src"/>
+	<classpathentry kind="src" path="SOBRECARGA/src"/>
+	<classpathentry kind="src" path="SobrescritaMetodos/src"/>
+	<classpathentry kind="src" path="StringBuffer/src"/>
+	<classpathentry kind="src" path="StringBuilder/src"/>
+	<classpathentry kind="src" path="Strings/src"/>
+	<classpathentry kind="src" path="Tratamento de excecoes/src"/>
+	<classpathentry kind="src" path="TREESET/src"/>
+	<classpathentry kind="src" path="Vetores/src"/>
+	<classpathentry kind="output" path="Fundamentos Java/bin"/>
+</classpath>

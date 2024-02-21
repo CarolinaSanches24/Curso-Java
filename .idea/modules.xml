@@ -2,21 +2,29 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARQUIVOS/ARQUIVOS.iml" filepath="$PROJECT_DIR$/ARQUIVOS/ARQUIVOS.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayBidemensional/ArrayBidemensional.iml" filepath="$PROJECT_DIR$/ArrayBidemensional/ArrayBidemensional.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/Collections/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayMultidimensional/ArrayMultidimensional.iml" filepath="$PROJECT_DIR$/ArrayMultidimensional/ArrayMultidimensional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BancoDados/BancoDados.iml" filepath="$PROJECT_DIR$/BancoDados/BancoDados.iml" />
       <module fileurl="file://$PROJECT_DIR$/CLASSE  ABSTRATA/CLASSE  ABSTRATA.iml" filepath="$PROJECT_DIR$/CLASSE  ABSTRATA/CLASSE  ABSTRATA.iml" />
       <module fileurl="file://$PROJECT_DIR$/CLASSES ABSTRATAS/CLASSES ABSTRATAS.iml" filepath="$PROJECT_DIR$/CLASSES ABSTRATAS/CLASSES ABSTRATAS.iml" />
       <module fileurl="file://$PROJECT_DIR$/COLECOES-ITERATOR/COLECOES-ITERATOR.iml" filepath="$PROJECT_DIR$/COLECOES-ITERATOR/COLECOES-ITERATOR.iml" />
       <module fileurl="file://$PROJECT_DIR$/COMPOSICAO/COMPOSICAO.iml" filepath="$PROJECT_DIR$/COMPOSICAO/COMPOSICAO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CURSO JAVA.iml" filepath="$PROJECT_DIR$/CURSO JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Comparator/Comparator.iml" filepath="$PROJECT_DIR$/Collections/Comparator/Comparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/Comparator2/Comparator2.iml" filepath="$PROJECT_DIR$/Collections/Comparator2/Comparator2.iml" />
       <module fileurl="file://$PROJECT_DIR$/EXEMPLO/EXEMPLO.iml" filepath="$PROJECT_DIR$/EXEMPLO/EXEMPLO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARQUIVOS/EscritaArquivo/EscritaArquivo.iml" filepath="$PROJECT_DIR$/ARQUIVOS/EscritaArquivo/EscritaArquivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARQUIVOS/EscritaArquivoBinario/EscritaArquivoBinario.iml" filepath="$PROJECT_DIR$/ARQUIVOS/EscritaArquivoBinario/EscritaArquivoBinario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Excecoes/Excecoes.iml" filepath="$PROJECT_DIR$/Excecoes/Excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExcecoesPersonalizadas/ExcecoesPersonalizadas.iml" filepath="$PROJECT_DIR$/ExcecoesPersonalizadas/ExcecoesPersonalizadas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exemplo1ExcecaoPersonalizada/Exemplo1ExcecaoPersonalizada.iml" filepath="$PROJECT_DIR$/Exemplo1ExcecaoPersonalizada/Exemplo1ExcecaoPersonalizada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exemplo1ExcecaoPersonalizada/Exemplo2ExcecaoPersonalizada/Exemplo2ExcecaoPersonalizada.iml" filepath="$PROJECT_DIR$/Exemplo1ExcecaoPersonalizada/Exemplo2ExcecaoPersonalizada/Exemplo2ExcecaoPersonalizada.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExemploClassePOO/ExemploClassePOO.iml" filepath="$PROJECT_DIR$/ExemploClassePOO/ExemploClassePOO.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExemploComposicao/ExemploComposicao.iml" filepath="$PROJECT_DIR$/ExemploComposicao/ExemploComposicao.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExemploSubstring/ExemploSubstring.iml" filepath="$PROJECT_DIR$/ExemploSubstring/ExemploSubstring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exemplo1ExcecaoPersonalizada/Exempo3/Exempo3.iml" filepath="$PROJECT_DIR$/Exemplo1ExcecaoPersonalizada/Exempo3/Exempo3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/HASHSET/HASHSET.iml" filepath="$PROJECT_DIR$/HASHSET/HASHSET.iml" />
       <module fileurl="file://$PROJECT_DIR$/HERANCA/HERANCA.iml" filepath="$PROJECT_DIR$/HERANCA/HERANCA.iml" />
@@ -30,6 +38,8 @@
       <module fileurl="file://$PROJECT_DIR$/JFRAME/JFRAME.iml" filepath="$PROJECT_DIR$/JFRAME/JFRAME.iml" />
       <module fileurl="file://$PROJECT_DIR$/JFrameUser/JFrameUser.iml" filepath="$PROJECT_DIR$/JFrameUser/JFrameUser.iml" />
       <module fileurl="file://$PROJECT_DIR$/LINKEDLIST/LINKEDLIST.iml" filepath="$PROJECT_DIR$/LINKEDLIST/LINKEDLIST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARQUIVOS/LeituraArquivo/LeituraArquivo.iml" filepath="$PROJECT_DIR$/ARQUIVOS/LeituraArquivo/LeituraArquivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARQUIVOS/LeituraArquivoBinario/LeituraArquivoBinario.iml" filepath="$PROJECT_DIR$/ARQUIVOS/LeituraArquivoBinario/LeituraArquivoBinario.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/LinkedHashMap/LinkedHashMap.iml" filepath="$PROJECT_DIR$/Collections/LinkedHashMap/LinkedHashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/LinkedHashSet/LinkedHashSet.iml" filepath="$PROJECT_DIR$/Collections/LinkedHashSet/LinkedHashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" />
@@ -40,11 +50,17 @@
       <module fileurl="file://$PROJECT_DIR$/Onibus/Onibus.iml" filepath="$PROJECT_DIR$/Onibus/Onibus.iml" />
       <module fileurl="file://$PROJECT_DIR$/POLIMORFISMO/POLIMORFISMO.iml" filepath="$PROJECT_DIR$/POLIMORFISMO/POLIMORFISMO.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO JAVA/POO JAVA.iml" filepath="$PROJECT_DIR$/POO JAVA/POO JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Runnable/Runnable.iml" filepath="$PROJECT_DIR$/Thread/Runnable/Runnable.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOBRECARGA/SOBRECARGA.iml" filepath="$PROJECT_DIR$/SOBRECARGA/SOBRECARGA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARQUIVOS/Serializacao/Serializacao.iml" filepath="$PROJECT_DIR$/ARQUIVOS/Serializacao/Serializacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/SobrescritaMetodos/SobrescritaMetodos.iml" filepath="$PROJECT_DIR$/SobrescritaMetodos/SobrescritaMetodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringBuffer/StringBuffer.iml" filepath="$PROJECT_DIR$/StringBuffer/StringBuffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/StringBuilder/StringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/TREESET/TREESET.iml" filepath="$PROJECT_DIR$/TREESET/TREESET.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread2/Thread2.iml" filepath="$PROJECT_DIR$/Thread/Thread2/Thread2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/ThreadSemSincronizacao/ThreadSemSincronizacao.iml" filepath="$PROJECT_DIR$/Thread/ThreadSemSincronizacao/ThreadSemSincronizacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/ThreadSincronizada/ThreadSincronizada.iml" filepath="$PROJECT_DIR$/Thread/ThreadSincronizada/ThreadSincronizada.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tratamento de excecoes/Tratamento de excecoes.iml" filepath="$PROJECT_DIR$/Tratamento de excecoes/Tratamento de excecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/TreeMap/TreeMap.iml" filepath="$PROJECT_DIR$/Collections/TreeMap/TreeMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/TreeSet/TreeSet.iml" filepath="$PROJECT_DIR$/Collections/TreeSet/TreeSet.iml" />
