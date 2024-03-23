@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/EXEMPLO/EXEMPLO.iml" filepath="$PROJECT_DIR$/EXEMPLO/EXEMPLO.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARQUIVOS/EscritaArquivo/EscritaArquivo.iml" filepath="$PROJECT_DIR$/ARQUIVOS/EscritaArquivo/EscritaArquivo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARQUIVOS/EscritaArquivoBinario/EscritaArquivoBinario.iml" filepath="$PROJECT_DIR$/ARQUIVOS/EscritaArquivoBinario/EscritaArquivoBinario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayMultidimensional/EstruturasDadosVetores/EstruturasDadosVetores.iml" filepath="$PROJECT_DIR$/ArrayMultidimensional/EstruturasDadosVetores/EstruturasDadosVetores.iml" />
       <module fileurl="file://$PROJECT_DIR$/Excecoes/Excecoes.iml" filepath="$PROJECT_DIR$/Excecoes/Excecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExcecoesPersonalizadas/ExcecoesPersonalizadas.iml" filepath="$PROJECT_DIR$/ExcecoesPersonalizadas/ExcecoesPersonalizadas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exemplo1ExcecaoPersonalizada/Exemplo1ExcecaoPersonalizada.iml" filepath="$PROJECT_DIR$/Exemplo1ExcecaoPersonalizada/Exemplo1ExcecaoPersonalizada.iml" />
@@ -43,13 +44,16 @@
       <module fileurl="file://$PROJECT_DIR$/Collections/LinkedHashMap/LinkedHashMap.iml" filepath="$PROJECT_DIR$/Collections/LinkedHashMap/LinkedHashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/LinkedHashSet/LinkedHashSet.iml" filepath="$PROJECT_DIR$/Collections/LinkedHashSet/LinkedHashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploSubstring/MatrizSwing/MatrizSwing.iml" filepath="$PROJECT_DIR$/ExemploSubstring/MatrizSwing/MatrizSwing.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModificadorAcessoPrivate/ModificadorAcessoPrivate.iml" filepath="$PROJECT_DIR$/ModificadorAcessoPrivate/ModificadorAcessoPrivate.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModificadorAcessoProtected/ModificadorAcessoProtected.iml" filepath="$PROJECT_DIR$/ModificadorAcessoProtected/ModificadorAcessoProtected.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModificadorAcessoPublic/ModificadorAcessoPublic.iml" filepath="$PROJECT_DIR$/ModificadorAcessoPublic/ModificadorAcessoPublic.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModificadoresAcessoDefault/ModificadoresAcessoDefault.iml" filepath="$PROJECT_DIR$/ModificadoresAcessoDefault/ModificadoresAcessoDefault.iml" />
       <module fileurl="file://$PROJECT_DIR$/Onibus/Onibus.iml" filepath="$PROJECT_DIR$/Onibus/Onibus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploSubstring/Ordenacao/Ordenacao.iml" filepath="$PROJECT_DIR$/ExemploSubstring/Ordenacao/Ordenacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/POLIMORFISMO/POLIMORFISMO.iml" filepath="$PROJECT_DIR$/POLIMORFISMO/POLIMORFISMO.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO JAVA/POO JAVA.iml" filepath="$PROJECT_DIR$/POO JAVA/POO JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ARQUIVOS/Pilha/Pilha.iml" filepath="$PROJECT_DIR$/ARQUIVOS/Pilha/Pilha.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Runnable/Runnable.iml" filepath="$PROJECT_DIR$/Thread/Runnable/Runnable.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOBRECARGA/SOBRECARGA.iml" filepath="$PROJECT_DIR$/SOBRECARGA/SOBRECARGA.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARQUIVOS/Serializacao/Serializacao.iml" filepath="$PROJECT_DIR$/ARQUIVOS/Serializacao/Serializacao.iml" />
