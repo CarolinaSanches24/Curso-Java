@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExemploSubstring/ExemploSubstring.iml" filepath="$PROJECT_DIR$/ExemploSubstring/ExemploSubstring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exemplo1ExcecaoPersonalizada/Exempo3/Exempo3.iml" filepath="$PROJECT_DIR$/Exemplo1ExcecaoPersonalizada/Exempo3/Exempo3.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARQUIVOS/Fila/ExercicioFila/ExercicioFila.iml" filepath="$PROJECT_DIR$/ARQUIVOS/Fila/ExercicioFila/ExercicioFila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ListasLigada/ExercicioNos/ExercicioNos.iml" filepath="$PROJECT_DIR$/../ListasLigada/ExercicioNos/ExercicioNos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/ARQUIVOS/Fila/Fila.iml" filepath="$PROJECT_DIR$/ARQUIVOS/Fila/Fila.iml" />
       <module fileurl="file://$PROJECT_DIR$/HASHSET/HASHSET.iml" filepath="$PROJECT_DIR$/HASHSET/HASHSET.iml" />
@@ -46,6 +47,7 @@
       <module fileurl="file://$PROJECT_DIR$/Collections/LinkedHashMap/LinkedHashMap.iml" filepath="$PROJECT_DIR$/Collections/LinkedHashMap/LinkedHashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/LinkedHashSet/LinkedHashSet.iml" filepath="$PROJECT_DIR$/Collections/LinkedHashSet/LinkedHashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/Collections/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ListasLigada/ListasLigada.iml" filepath="$PROJECT_DIR$/../ListasLigada/ListasLigada.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExemploSubstring/MatrizSwing/MatrizSwing.iml" filepath="$PROJECT_DIR$/ExemploSubstring/MatrizSwing/MatrizSwing.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModificadorAcessoPrivate/ModificadorAcessoPrivate.iml" filepath="$PROJECT_DIR$/ModificadorAcessoPrivate/ModificadorAcessoPrivate.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModificadorAcessoProtected/ModificadorAcessoProtected.iml" filepath="$PROJECT_DIR$/ModificadorAcessoProtected/ModificadorAcessoProtected.iml" />
